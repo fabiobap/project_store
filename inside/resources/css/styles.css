@@ -1,0 +1,74 @@
+body {
+    min-height: 35rem;
+    padding-top: 4.5rem;
+
+}
+.cart-input-resized{
+    width: 100px;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+h2,
+h3 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.main-content {
+    margin-top: 40px;
+}
+.col-left, .col-right, .col-middle{
+    padding-top: 50px;
+}
+
+.flex-column h5 {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.col-left>ul>.nav-item>a {
+    padding-left: 30px;
+}
+.col-right>.nav>.nav-item>a {
+    padding-left: 30px;
+}
+.form-search,
+.form-add,
+.form-alter {
+    background-color: #f7f7f9;
+}
+
+.table-general,
+.footer-table {
+    background-color: #007bff;
+    color: white;
+}
+
+.button-search {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.button-table{
+    margin-bottom: 5px;
+}
+
+footer.footer {
+    font-size: 12px;
+    font-weight: 100;
+    color: darkgray;
+    padding-top: 100px;
+}
+
+.noRegister {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.col-md-3 {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
